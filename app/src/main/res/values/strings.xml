@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecView</string>
+    <string-array name="language">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+        <item>Python</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Desc</item>
+        <item>Desc</item>
+        <item>Desc</item>
+        <item>Desc</item>
+
+    </string-array>
+</resources>
